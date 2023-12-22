@@ -2,8 +2,6 @@
 # Display name
 title: Zexing Zhang
 
-# Name pronunciation (optional)
-name_pronunciation: Zexing Zhang
 
 # Full name (for SEO)
 first_name: Zexing
