@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "MultiBioGM: A Hand Multimodal Biometric Model Combining Texture Prior Knowledge to Enhance Generalization Ability"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
